@@ -23,7 +23,7 @@ TOKEN = "8931357738:AAE80AeuktixHuCX-31VT0SrRPkztKiVKT8"
 BASE_URL = f"https://api.telegram.org/bot{TOKEN}"
 FILE_URL = f"https://api.telegram.org/file/bot{TOKEN}/"
 
-OWNER_ID = 8516922493
+OWNER_ID = 5474672519
 BOT_USERNAME = ""
 DB_FILE = "bot_data.json"
 
